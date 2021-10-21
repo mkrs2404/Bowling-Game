@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-BowlingApplication<bowling>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.game.bowling.BowlingApplication",
+            "projectName": "bowling",
+            "args": ""
+        }
+    ]
+}
